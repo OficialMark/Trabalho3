@@ -12,3 +12,8 @@ FilaPaciente: Estrutura de fila para gerenciar pacientes.<br>
 NodeExame: Estrutura de nó para um exame em uma lista encadeada.<br>
 FilaExame: Estrutura de fila para gerenciar exames.<br>
 Maquina: Representa uma máquina para realizar raioX.<br>
+
+
+#Execução
+<br>
+Basta abrir o terminal na mesma pasta com o arquivo main e digitar make all
